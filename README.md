@@ -5,7 +5,7 @@
 
 ---
 
-## 🔥 What Is PoCForge?
+## 🔥 What Is PoC Nexus ?
 
 PoCForge is a next-generation cybersecurity intelligence platform that transforms raw vulnerability data into predictive risk insights, adversarial modeling simulations, and board-level intelligence.
 
@@ -20,7 +20,7 @@ It tells you:
 
 ---
 
-# 🧠 Why PoCForge?
+# 🧠 Why PoC Nexus?
 
 Traditional vulnerability tools focus on scanning.
 
@@ -104,7 +104,7 @@ Celery Workers
 Kubernetes + HPA
 ```
 
-PoCForge scales with your infrastructure.
+ PoC Nexus scales with your infrastructure.
 
 ---
 
@@ -141,7 +141,7 @@ http://localhost:5173
 
 ---
 
-# 📈 Who Is PoCForge For?
+# 📈 Who Is  PoC Nexus For?
 
 - Security Operations (SOC) teams  
 - DevSecOps engineers  
@@ -163,7 +163,7 @@ http://localhost:5173
 | No financial insight | Blast radius + cost modeling |
 | Technical reports | Executive-ready summaries |
 
-PoCForge bridges the gap between security engineers and executive leadership.
+ PoC Nexus bridges the gap between security engineers and executive leadership.
 
 ---
 
@@ -203,7 +203,7 @@ They will:
 - Quantify business impact  
 - Translate cyber risk into executive language  
 
-PoCForge is built for that future.
+ PoC Nexus is built for that future.
 
 ---
 
